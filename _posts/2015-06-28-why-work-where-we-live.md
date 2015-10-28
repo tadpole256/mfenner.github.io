@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Why should we work where we live?
-tags: [work]
+title: "Why should we work where we live?"
+tags: 
+  - work
+published: true
 ---
+
 
 At the [SciFoo Camp](http://www.digital-science.com/events/scifoo-camp-2015/) this weekend [Erin McKiernan](https://emckiernan.wordpress.com) and I moderated an unconference session on the topic **Why should we work where we live?** This was a spontaneous idea after we had talked about this topic on Friday (Erin lives in Mexico with a job in Canada, I live in Germany and work for an organization in San Francisco).<!--more-->
 
@@ -10,7 +13,7 @@ We quickly realized that this situation is far from uncommon in the space we wor
 
 The other big reason for work remote is that some research can only happen in special places, for example in high-energy physics, astronomy or the geosciences. And of course there are other flavors of the same situation, e.g. when a principal investigator moves to a new institution and PhD students or postdocs can't or don't want to move with him/her. And most academics have to do at least some remote work, since they will spend a good amount of time travelling to conferences or collaboration partners.
 
-The discussion in the session centered on the social and technical challenges of working remotely. We didn't have time to go into the legal aspects (e.g. taxes when you work in a different country), or the challenges organizing your personal life, particular difficult when you have children.
+The discussion in the session centered on the social and technical challenges of working remotely. We didn't have time to go into the legal aspects (e.g. taxes when you work in a different country), or the challenges organizing your personal life, particularly difficult when you have children.
 
 We shared our experience with online collaboration tools, and video conferencing with Skype, Google Hangouts or similar was central to this. Videoconferencing can be a challenge with slow internet connectivity, a situation that luckily is constantly improving.
 
